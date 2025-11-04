@@ -1,0 +1,5 @@
+aiogram==2.25.2
+mutagen==1.46.0
+pillow==10.0.0
+ffmpeg-python==0.2.1
+python-dotenv==1.0.0
